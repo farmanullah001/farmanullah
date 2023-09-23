@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm farmanullah001</h1>
 <h3 align="center">A passionate Engineer from Pakistan</h3>
-<img align="right" alt="coding" width="400"src="https://user image githubusercontent.com/55389276/14086485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400"src="![image](https://github.com/farmanullah001/farmanullah/assets/145778016/4bf28de8-df4a-41c8-bdf7-907777a98ef8)
+">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farmanullah001&label=Profile%20views&color=0e75b6&style=flat" alt="farmanullah001" /> </p>
 
 - ⚡ Fun fact **Be a patient person😇**
